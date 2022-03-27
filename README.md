@@ -20,8 +20,8 @@ Currently, as of **v1.1** OpenBrewage can do the following:
 # Credits
 
 Thanks to:
-TurboWarp Packager - HTML5 conversion for index page
-Scratch 3 - index page engine and of course the main reason this repo exists.
-Griffpatch - Number renderer
-Scratch Wiki - FPS Logic code
-s-zenmode - messing with the number renderer, making the module, and making openbrewage (lol)
+- TurboWarp Packager - HTML5 conversion for index page
+- Scratch 3 - index page engine and of course the main reason this repo exists.
+- Griffpatch - Number renderer
+- Scratch Wiki - FPS Logic code
+- s-zenmode - messing with the number renderer, making the module, and making openbrewage (lol)
