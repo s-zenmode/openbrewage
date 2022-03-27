@@ -5,7 +5,7 @@ OpenBrewage is a Scratch Project addon that comes in the form of a **sprite**. I
 # How to Install OpenBrewage
 
 It's relatively simple to install OpenBrewage.
-1. Download the .sb3 file from the Releases tab on the [GitHub Repository](https://github.com/s-zenmode/openbrewage)
+1. Download the .sb3 file from the Releases tab on the GitHub Repository (or just click here.)[https://github.com/s-zenmode/openbrewage/releases/]
 2. Open the .sb3 file in your preferred Scratch Editor
 3. Right Click on the **BREWAGE_STAT** sprite in the library and click **export**.
 4. Open your project that you would like to install OpenBrewage to
@@ -21,3 +21,7 @@ Currently, as of **v1.1** OpenBrewage can do the following:
 
 Thanks to:
 TurboWarp Packager - HTML5 conversion for index page
+Scratch 3 - index page engine and of course the main reason this repo exists.
+Griffpatch - Number renderer
+Scratch Wiki - FPS Logic code
+s-zenmode - messing with the number renderer, making the module, and making openbrewage (lol)
