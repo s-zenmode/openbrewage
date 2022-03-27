@@ -5,7 +5,7 @@ OpenBrewage is a Scratch Project addon that comes in the form of a **sprite**. I
 # How to Install OpenBrewage
 
 It's relatively simple to install OpenBrewage.
-1. Download the .sb3 file from the Releases tab on the GitHub Repository (or just click here.)[https://github.com/s-zenmode/openbrewage/releases/]
+1. Download the .sb3 file from the Releases tab on the GitHub Repository [or just click here.](https://github.com/s-zenmode/openbrewage/releases/)
 2. Open the .sb3 file in your preferred Scratch Editor
 3. Right Click on the **BREWAGE_STAT** sprite in the library and click **export**.
 4. Open your project that you would like to install OpenBrewage to
