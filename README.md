@@ -27,3 +27,6 @@ Thanks to:
 - Griffpatch - Number renderer
 - Scratch Wiki - FPS Logic code
 - s-zenmode - messing with the number renderer, making the module, and making openbrewage (lol)
+
+# **IMPORTANT!**
+Credit OpenBrewage when using it in projects.
