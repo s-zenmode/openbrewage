@@ -1,5 +1,7 @@
 # OpenBrewage
 
+[Check this out before reading, you might like it](https://s-zenmode.github.io/openbrewage/)
+
 OpenBrewage is a Scratch Project addon that comes in the form of a **sprite**. It's built to give you features and customizability of said features within the Scratch Editor itself, all in one neat bundled **sprite**.
 
 # How to Install OpenBrewage
