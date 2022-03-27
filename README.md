@@ -16,3 +16,8 @@ It's relatively simple to install OpenBrewage.
 
 Currently, as of **v1.1** OpenBrewage can do the following:
 - Nice and big FPS counter on the top-left of your screen, with customizable features to accommodate for the project you're using.
+
+# Credits
+
+Thanks to:
+TurboWarp Packager - HTML5 conversion for index page
